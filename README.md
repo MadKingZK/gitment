@@ -1,0 +1,2 @@
+# gitment
+hexo gitment
